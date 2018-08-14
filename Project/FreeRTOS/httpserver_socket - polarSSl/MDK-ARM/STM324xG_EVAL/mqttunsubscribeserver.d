@@ -1,0 +1,11 @@
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTUnsubscribeServer.c
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTPacket.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTConnect.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTPublish.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTSubscribe.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTUnsubscribe.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTFormat.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\StackTrace.h
+.\stm324xg_eval\mqttunsubscribeserver.o: C:\Keil_v5\ARM\ARMCC\include\stdio.h
+.\stm324xg_eval\mqttunsubscribeserver.o: ..\MQTT\MQTTPacket.h
+.\stm324xg_eval\mqttunsubscribeserver.o: C:\Keil_v5\ARM\ARMCC\include\string.h

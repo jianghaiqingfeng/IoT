@@ -1,0 +1,11 @@
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTFormat.c
+.\stm324xg_eval\mqttformat.o: ..\MQTT\StackTrace.h
+.\stm324xg_eval\mqttformat.o: C:\Keil_v5\ARM\ARMCC\include\stdio.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTPacket.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTConnect.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTPublish.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTSubscribe.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTUnsubscribe.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTFormat.h
+.\stm324xg_eval\mqttformat.o: ..\MQTT\MQTTPacket.h
+.\stm324xg_eval\mqttformat.o: C:\Keil_v5\ARM\ARMCC\include\string.h
